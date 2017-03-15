@@ -3,3 +3,6 @@ this is a new file, that was created by me online
 
 and then i have pulled it on my computer.
 i read and write now
+
+i work on branch1
+i don't know how to merge
